@@ -1,0 +1,14 @@
+/* Write your CSS here */
+li {
+  list-style: none;
+  border-radius: 20px;
+}
+
+.star {
+  width: px;
+}
+
+.starButton {
+  border: 0;
+  background-color: transparent;
+}
